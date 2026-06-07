@@ -1,4 +1,4 @@
-## HetEGCL
+## EnHGCL
 
 Various types of similarity are integrated by HetEGCL, providing different insights into the biological mechanisms of MDA, LDA, and LMI.
 A cross-layer fusion strategy for node-specific information is proposed, which can better utilize the information of nodes in multi-task prediction.
